@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-# WSGI_APPLICATION = 'django_24.wsgi.application'
+WSGI_APPLICATION = 'EduNova_Edtech.wsgi.application'
 
 
 # Database
